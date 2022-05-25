@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # expense_planner
 
 A new Flutter project.
@@ -17,4 +16,3 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 =======
 # Expense-Planner
->>>>>>> d3b227f38df0f2c19440196049c4a50b74737f71
